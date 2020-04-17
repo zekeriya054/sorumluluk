@@ -1,0 +1,75 @@
+//---------------------------------------------------------------------------
+
+#ifndef ucret_onayiH
+#define ucret_onayiH
+//---------------------------------------------------------------------------
+#include <Classes.hpp>
+#include <Controls.hpp>
+#include <StdCtrls.hpp>
+#include <Forms.hpp>
+#include <ExtCtrls.hpp>
+#include <QuickRpt.hpp>
+#include <QRCtrls.hpp>
+#include <DB.hpp>
+#include <IBCustomDataSet.hpp>
+#include <IBQuery.hpp>
+//---------------------------------------------------------------------------
+class Tucret_onay_f : public TForm
+{
+__published:	// IDE-managed Components
+        TQuickRep *ucret_onay;
+        TQRBand *QRBand1;
+        TQRDBText *QRDBText1;
+        TIBQuery *IBQuery1;
+        TQRLabel *QRLabel1;
+        TQRLabel *QRLabel2;
+        TQRLabel *QRLabel3;
+        TQRLabel *QRLabel4;
+        TQRMemo *QRMemo1;
+        TQRMemo *QRMemo2;
+        TQRMemo *QRMemo3;
+        TQRMemo *QRMemo4;
+        TQRLabel *QRLabel5;
+        TQRMemo *QRMemo5;
+        TQRShape *QRShape1;
+        TQRBand *QRBand2;
+        TQRShape *QRShape3;
+        TQRShape *QRShape4;
+        TQRShape *QRShape5;
+        TQRShape *QRShape6;
+        TQRShape *QRShape7;
+        TQRShape *QRShape8;
+        TQRShape *QRShape9;
+        TQRShape *QRShape10;
+        TQRDBText *QRDBText2;
+        TIBQuery *IBQuery2;
+        TIBQuery *IBQuery3;
+        TQRExpr *kt;
+        TQRExpr *gt;
+        TQRExpr *QRExpr1;
+        TQRSysData *QRSysData1;
+        TQRExpr *QRExpr2;
+        TQRExpr *QRExpr3;
+        TQRShape *QRShape11;
+        TQRShape *QRShape12;
+        TQRShape *QRShape13;
+        TQRShape *QRShape14;
+        TQRShape *QRShape15;
+        TQRShape *QRShape16;
+        TQRShape *QRShape17;
+        TQRShape *QRShape18;
+        TQRShape *QRShape19;
+        TQRShape *QRShape20;
+        TQRShape *QRShape21;
+        TQRShape *QRShape22;
+        TQRShape *QRShape2;
+        void __fastcall QRBand2BeforePrint(TQRCustomBand *Sender,
+          bool &PrintBand);
+private:	// User declarations
+public:		// User declarations
+        __fastcall Tucret_onay_f(TComponent* Owner);
+};
+//---------------------------------------------------------------------------
+extern PACKAGE Tucret_onay_f *ucret_onay_f;
+//---------------------------------------------------------------------------
+#endif

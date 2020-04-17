@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2008.06.14 15:27:08.020.cpp,C:\Users\Yusuf\Documents\Borland Studio Projects\Unit2.cpp=D:\sorumluluk\anaform.cpp</Transaction>
+    <Transaction>2008.06.14 15:27:08.020.h,C:\Users\Yusuf\Documents\Borland Studio Projects\Unit2.h=D:\sorumluluk\anaform.h</Transaction>
+    <Transaction>2008.06.14 15:27:08.020.dfm,C:\Users\Yusuf\Documents\Borland Studio Projects\Unit2.dfm=D:\sorumluluk\anaform.dfm</Transaction>
+    <Transaction>2008.06.14 15:27:25.905.bdsproj,C:\Users\Yusuf\Documents\Borland Studio Projects\Project2.bdsproj=D:\sorumluluk\sorpro.bdsproj</Transaction>
+    <Transaction>2008.06.16 17:49:42.548.cpp,D:\sorumluluk\Unit1.cpp=D:\sorumluluk\hakkinda.cpp</Transaction>
+    <Transaction>2008.06.16 17:49:42.548.h,D:\sorumluluk\Unit1.h=D:\sorumluluk\hakkinda.h</Transaction>
+    <Transaction>2008.06.16 17:49:42.548.dfm,D:\sorumluluk\Unit1.dfm=D:\sorumluluk\hakkinda.dfm</Transaction>
+    <Transaction>2008.06.16 23:52:55.853.cpp,D:\sorumluluk\Unit2.cpp=D:\sorumluluk\ogretmen_program.cpp</Transaction>
+    <Transaction>2008.06.16 23:52:55.853.h,D:\sorumluluk\Unit2.h=D:\sorumluluk\ogretmen_program.h</Transaction>
+    <Transaction>2008.06.16 23:52:55.853.dfm,D:\sorumluluk\Unit2.dfm=D:\sorumluluk\ogretmen_program.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
